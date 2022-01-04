@@ -1,13 +1,13 @@
 openapi: 3.0.0
 info:
-  title: Delilah Resto by Leandrouno
+  title: Delilah Resto por santiago arboleda
   description: API para restaurant 
   contact:
-    email: lmugnolo@gmail.com
+    email: sanarbmar@gmail.com
   version: 1.0.0
 externalDocs:
   description: Github Repository
-  url: https://github.com/Leandrouno/delilah_resto
+  url: https://github.com/sanarbmar/delilah_resto_final
 servers:
   - url: http://localhost:3000/v1
 tags:
