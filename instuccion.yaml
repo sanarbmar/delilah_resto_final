@@ -1,7 +1,7 @@
-openapi: 3.0.0
+swagger: "2.0"
 info:
   title: Delilah Resto por santiago arboleda
-  description: API para restaurant 
+  description: API para pedidos de comida deliciosa. como cliente podrás registraste, ver el listado de nuestros productos y realizar una orden.Los administradores del restaurante tienen la posibilidad de recibir pedidos y actualizarlos 
   contact:
     email: sanarbmar@gmail.com
   version: 1.0.0

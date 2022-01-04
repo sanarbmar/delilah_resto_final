@@ -42,6 +42,7 @@ https://github.com/sanarbmar/delilah_resto_final/blob/main/Delilah.postman_colle
 
 ## 7 Descargate el YAML
 
+https://github.com/sanarbmar/delilah_resto_final/blob/main/instuccion.yaml  :grinning:
 
 
 
